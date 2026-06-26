@@ -1,0 +1,36 @@
+##StyleMe
+
+StyleMe is a fashion styling web application built using React.js. It helps users explore complete outfit ideas by providing recommendations for clothing, footwear, makeup, hairstyles, jewellery, and accessories. The application is designed with a clean and user-friendly interface, making it easy to navigate through different styling options for various occasions.
+
+##Features
+- Modern and responsive user interface
+- Clothing recommendations
+- Footwear suggestions
+- Makeup recommendations
+- Hairstyle suggestions
+- Jewellery and accessories recommendations
+- Simple navigation between pages using React Router
+
+##Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+- React Router DOM
+- Vite
+
+##Purpose
+
+The main goal of StyleMe is to simplify fashion styling by bringing all fashion recommendations together in one place. It provides users with complete outfit inspiration instead of searching for each fashion item separately.
+
+##Future Improvements
+- AI-based outfit recommendations
+- User authentication
+- Personalized fashion suggestions
+- Wishlist feature
+- Occasion-based outfit filtering
+
+##Screenshots
+"C:\style me\styleme\screenshots\Screenshot 2026-06-26 122314.png"
+"C:\style me\styleme\screenshots\Screenshot 2026-06-26 122335.png"
+"C:\style me\styleme\screenshots\Screenshot 2026-06-26 122325.png"
